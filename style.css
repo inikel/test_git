@@ -1,0 +1,18 @@
+body {
+  background-color: gold;
+}
+
+h1 {
+  color: red;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.centered {
+  padding: 20px;
+  border: 1px solid grey;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
